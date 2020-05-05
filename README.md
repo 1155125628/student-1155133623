@@ -1,6 +1,6 @@
 # Introduction #
 
-Hi, I am __Ho Lee Lee__. I am engineering student who is admitted to CS major.
+Hi, I am __Ho Lee Lee__. I am engineering student who am admitted to CS major.
 
 # Programming Languages #
 
@@ -31,4 +31,7 @@ I hope I can pass ENGG1120 in this semester.
 |MATH1510_J   |20 May 2020|
 
 This week is so busy :((((
+
+# Image #
+![Test Image 2](https://raw.githubusercontent.com/csci3251-2020/student-1155133623/master/1155133623_HoLeeLee_milestone2.PNG)
 
