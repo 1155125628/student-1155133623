@@ -8,6 +8,8 @@ I have learned these programming languages before.
 
 *   Java
 *   PHP
+*   C
+*   Python
 *   Javascript
 *   html
 *   css
